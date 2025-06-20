@@ -1,0 +1,24 @@
+{
+  "blockedNumbers": [
+    { "number": "0123456789", "country": "FR"}
+  ],
+  "blockedPrefixes": [
+    { "prefix": "0162", "country": "FR" },
+    { "prefix": "0163", "country": "FR" },
+    { "prefix": "0270", "country": "FR" },
+    { "prefix": "0271", "country": "FR" },
+    { "prefix": "0377", "country": "FR" },
+    { "prefix": "0378", "country": "FR" },
+    { "prefix": "0424", "country": "FR" },
+    { "prefix": "0425", "country": "FR" },
+    { "prefix": "0568", "country": "FR" },
+    { "prefix": "0569", "country": "FR" },
+    { "prefix": "0948", "country": "FR" },
+    { "prefix": "0949", "country": "FR" },
+    { "prefix": "09475", "country": "FR" },
+    { "prefix": "09476", "country": "FR" },
+    { "prefix": "09477", "country": "FR" },
+    { "prefix": "09478", "country": "FR" },
+    { "prefix": "09479", "country": "FR" }
+  ]
+}
